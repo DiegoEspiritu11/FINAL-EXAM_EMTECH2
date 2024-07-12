@@ -1,6 +1,6 @@
 pandas
 streamlit
-numpy==1.21.6
+numpy
 tensorflow
 googledrivedownloader
 opencv-python-headless
